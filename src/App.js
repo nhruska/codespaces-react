@@ -4,21 +4,25 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <p>
+        This sample React app is hosted via
+        </p>
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          GitHub Codespaces <span className="heart">♥️</span>
         </p>
         <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
+          Update  
+          <code>~/src/App.js</code> and save to immediately see your changes.
         </p>
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://nhruska-redesigned-space-acorn-r47wqwj94q2x4rw-3000.preview.app.github.dev/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            App URL
           </a>
         </p>
       </header>
