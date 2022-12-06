@@ -22,7 +22,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            App URL
+            nhruska@alleni.com
           </a>
         </p>
       </header>
